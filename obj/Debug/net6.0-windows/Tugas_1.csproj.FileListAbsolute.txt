@@ -1,0 +1,16 @@
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 1\Tugas_1\Tugas_1\bin\Debug\net6.0-windows\Tugas_1.exe
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 1\Tugas_1\Tugas_1\bin\Debug\net6.0-windows\Tugas_1.deps.json
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 1\Tugas_1\Tugas_1\bin\Debug\net6.0-windows\Tugas_1.runtimeconfig.json
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 1\Tugas_1\Tugas_1\bin\Debug\net6.0-windows\Tugas_1.dll
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 1\Tugas_1\Tugas_1\bin\Debug\net6.0-windows\Tugas_1.pdb
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 1\Tugas_1\Tugas_1\obj\Debug\net6.0-windows\Tugas_1.Form1.resources
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 1\Tugas_1\Tugas_1\obj\Debug\net6.0-windows\Tugas_1.csproj.GenerateResource.cache
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 1\Tugas_1\Tugas_1\obj\Debug\net6.0-windows\Tugas_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 1\Tugas_1\Tugas_1\obj\Debug\net6.0-windows\Tugas_1.AssemblyInfoInputs.cache
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 1\Tugas_1\Tugas_1\obj\Debug\net6.0-windows\Tugas_1.AssemblyInfo.cs
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 1\Tugas_1\Tugas_1\obj\Debug\net6.0-windows\Tugas_1.csproj.CoreCompileInputs.cache
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 1\Tugas_1\Tugas_1\obj\Debug\net6.0-windows\Tugas_1.dll
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 1\Tugas_1\Tugas_1\obj\Debug\net6.0-windows\refint\Tugas_1.dll
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 1\Tugas_1\Tugas_1\obj\Debug\net6.0-windows\Tugas_1.pdb
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 1\Tugas_1\Tugas_1\obj\Debug\net6.0-windows\Tugas_1.genruntimeconfig.cache
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 1\Tugas_1\Tugas_1\obj\Debug\net6.0-windows\ref\Tugas_1.dll
